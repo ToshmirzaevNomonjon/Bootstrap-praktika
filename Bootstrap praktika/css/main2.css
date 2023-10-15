@@ -1,0 +1,194 @@
+.container{
+    background-image:url("../rasmlar/color_body_bg_image.jpg");
+
+}
+.z{
+    padding: 5px 20px;
+    background-color: white;
+    height: 35px;
+}
+.main{
+    transform: rotate(90deg);
+    width: 60px;
+    border: 4px solid mediumaquamarine !important;
+    position: relative;
+    bottom: 70px;
+    left: 295px;
+}
+.nomer{
+    color: grey;
+    position: relative;
+    left: 10px;
+}
+.nomer:hover{
+    text-decoration: none;
+    color: grey;
+}
+.x{
+    transform: translateX(350px);
+}
+.zz{
+    background-color: lightblue;
+    height: 90px;
+}
+.butonlar{
+    position: relative;
+    top: 25px;
+
+}
+.inn{
+    width: 280px !important;
+    border: 2px solid lightgrey;
+}
+.logo{
+    position: relative;
+}
+.b{
+    position: relative;
+    right: 100px;
+    border-radius: 0 !important;
+}
+.bd{
+    position: relative;
+    margin-left: 5px;
+}
+.bb{
+    position: relative;
+
+}
+.zzx{
+    background-color: lightgray;
+}
+.yozuv{
+    position: relative;
+    top: 10px;
+    color: black;
+    font-size: 15px;
+    right: 50px;
+}
+.yozuv:hover{
+    color: black;
+    text-decoration: none;
+}
+.xz{
+    height: 40px;
+    background-color: white !important;
+}
+.p{
+    position: relative;
+    left: 5px;
+}
+.pp{
+    position: relative;
+    right: 45px;
+    top: 10px;
+}
+.main1{
+    transform: rotate(90deg);
+    border: 1px solid white;
+    width: 300px;
+    position: relative;
+    top: 30%;
+    margin-left: -50%;
+}
+.r{
+    background-color: #25fff0;
+}
+.tedy{
+    color: #25fff0;
+}
+.soya{
+    box-shadow: 10px 10px 10px grey;
+    border: none;
+}
+.soya1{
+    box-shadow: -10px -10px 10px grey;
+    border: none;
+}
+.col6{
+    position: relative;
+    right: 19%;
+    top: 20px;
+}
+.col66{
+    position: relative;
+    right: -19%;
+    top: 30px;
+    z-index: 1;
+}
+.buton{
+    margin-top: 160px;
+}
+.email{
+    position: relative;
+    top: 55%;
+}
+.buttonn{
+    position: relative;
+    top: 50%;
+}
+.a:hover{
+    text-decoration: none;
+}
+.aa{
+    margin-left: 30% !important;
+}
+.f{
+    width: 50px;
+    font-size: 17px;
+}
+.ff{
+    width: 50px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.rang{
+    background-color: #69391d;
+}
+.shopy{
+    font-size: 12px;
+
+}
+.down{
+    transform: rotate(-90deg);
+    position: relative;
+    top: 15px;
+}
+.fixed{
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid lightskyblue;
+    line-height: 45px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    background-color: lightskyblue;
+    border-radius: 100%;
+    z-index: 5;
+}
+
+
+.rasm{
+    position: relative;
+    right: 20px;
+    bottom: 21px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.rasm1{
+    position: relative;
+    right: 20px;
+    bottom: 21px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.body{
+    position: relative;
+    left: 180px;
+}
+.butom{
+
+}
+

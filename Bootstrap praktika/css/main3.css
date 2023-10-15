@@ -1,0 +1,104 @@
+.container{
+    background-image:url("../rasmlar/color_body_bg_image.jpg");
+
+}
+.yozuv{
+    position: relative;
+    top: 10px;
+    color: black;
+    font-size: 15px;
+    right: 50px;
+}
+.yozuv:hover{
+    color: black;
+    text-decoration: none;
+}
+.z{
+    padding: 5px 20px;
+    background-color: white;
+    height: 35px;
+}
+.zz{
+    background-color: lightblue;
+    height: 90px;
+}
+.nomer{
+    color: grey;
+    position: relative;
+    left: 10px;
+}
+.nomer:hover{
+    text-decoration: none;
+    color: grey;
+}
+.x{
+    transform: translateX(350px);
+}
+.butonlar{
+    position: relative;
+    top: 25px;
+
+}
+.inn{
+    width: 280px !important;
+    border: 2px solid lightgrey;
+}
+.bd{
+    position: relative;
+    margin-left: 5px;
+}
+.b{
+    position: relative;
+    right: 100px;
+    border-radius: 0 !important;
+}
+.xz{
+    height: 40px;
+    background-color: white !important;
+}
+.Avenue{
+    font-size: 13px;
+}
+.rang{
+    background-color: #69391d;
+}
+.a:hover{
+    text-decoration: none;
+}
+.aa{
+    margin-left: 30% !important;
+}
+.f{
+    width: 50px;
+    font-size: 17px;
+}
+.ff{
+    width: 50px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.down{
+    transform: rotate(-90deg);
+    position: relative;
+    top: 15px;
+}
+.fixed{
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid lightskyblue;
+    line-height: 45px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    background-color: lightskyblue;
+    border-radius: 100%;
+    z-index: 5;
+}
+.shopy{
+    font-size: 12px;
+}
+.zzx{
+    background-color: lightgray;
+}

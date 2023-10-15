@@ -1,0 +1,278 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    background-image:url("../rasmlar/color_body_bg_image.jpg");
+
+}
+.yozuv{
+    position: relative;
+    top: 10px;
+    color: black;
+    font-size: 15px;
+    right: 50px;
+}
+.yozuv:hover{
+    color: black;
+    text-decoration: none;
+}
+.z{
+    padding: 5px 20px;
+    background-color: white;
+    height: 35px;
+}
+.zz{
+    background-color: lightblue;
+    height: 90px;
+}
+.nomer{
+    color: grey;
+    position: relative;
+    left: 10px;
+}
+.nomer:hover{
+    text-decoration: none;
+    color: grey;
+}
+.x{
+    transform: translateX(350px);
+}
+.butonlar{
+    position: relative;
+    top: 25px;
+
+}
+.inn{
+    width: 280px !important;
+    border: 2px solid lightgrey;
+}
+.bd{
+    position: relative;
+    margin-left: 5px;
+}
+.b{
+    position: relative;
+    right: 100px;
+    border-radius: 0 !important;
+}
+.xz{
+    height: 40px;
+    background-color: white !important;
+}
+.Avenue{
+    font-size: 13px;
+}
+.rang{
+    background-color: #69391d;
+}
+.a:hover{
+    text-decoration: none;
+}
+.aa{
+    margin-left: 30% !important;
+}
+.f{
+    width: 50px;
+    font-size: 17px;
+}
+.ff{
+    width: 50px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.down{
+    transform: rotate(-90deg);
+    position: relative;
+    top: 15px;
+}
+.fixed{
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid lightskyblue;
+    line-height: 45px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    background-color: lightskyblue;
+    border-radius: 100%;
+    z-index: 5;
+}
+.bingo{
+    color: deeppink;
+}
+.We{
+    font-size: 11px;
+}
+.caqalo{
+    margin-top: -11%;
+    margin-left: -7%;
+}
+.caqalo1{
+    margin-top: -55px;
+    left: 255px;
+}
+.chek{
+    color: saddlebrown;
+}
+.baby{
+    color: saddlebrown;
+}
+.caqalo11{
+   margin-top: 210px;
+    right: 14px;
+}
+.bg{
+    position: relative;
+    top: 10px;
+    background-color: rgba(255,254,4,0.31);
+    height: 80px;
+
+}
+.dee{
+    font-size: 11px;
+    position: relative;
+    left: 11px;
+    bottom: 18px;
+}
+.bdd{
+    background-color: #533f03;
+    color: white;
+    position: relative;
+    bottom: 17px;
+    border-radius: 0;
+    right: 20px;
+}
+.bddd{
+    background-color: cadetblue;
+    border-radius: 0;
+    color: white;
+    position: relative;
+    left: 115px;
+    bottom: 17px;
+}
+.bb{
+    width: 20px;
+    height: 30px;
+    margin-left: 140px;
+    position: relative;
+    top: -60px;
+}
+.zzx{
+    background-color: lightgray;
+}
+.shop{
+    font-size: 15px;
+    position: relative;
+    bottom: 5px;
+    right: 10px;
+}
+.bikoo{
+    color: saddlebrown;
+    text-align: right;
+    position: relative;
+    right: 65px;
+    margin-top: 20px;
+}
+.off{
+    color: #1bc38d;
+    font-weight: 700;
+    text-align: right;
+}
+.bags{
+    text-align: right;
+    position: relative;
+    right: 27px;
+}
+.butn{
+    background-color: #fc82b6;
+    border-radius: 0;
+    color: white;
+    position: relative;
+    left: 274px;
+
+}
+.butnn{
+    border-radius: 0;
+    position: relative;
+    left: 272px;
+}
+.of{
+    font-weight: 700;
+    text-align: right;
+    color: #66b72c;
+}
+.bagss{
+    text-align: right;
+    position: relative;
+    right: 20px;
+}
+.biko{
+    color: saddlebrown;
+    text-align: right;
+    position: relative;
+    right: 37px;
+    margin-top: 20px;
+}
+.Special{
+    color: steelblue;
+    position: relative;
+    left: 5px;
+}
+.hr{
+    width: 890px;
+}
+.hury{
+    font-size: 70px;
+    color: pink !important;
+}
+.btnn{
+    background-color: #fc82b6;
+    border-radius: 0;
+}
+.zzz{
+    margin-right: 40px;
+}
+.plus{
+    transform: translateX(-50px);
+    font-size: 20px;
+}
+.opa{
+    margin-left: 40px;
+}
+.dumaloq1{
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+.dumaloq2{
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+.dolar{
+    position: relative;
+    bottom: 15px;
+    color: grey !important;
+}
+.yulduz{
+    font-size: 11px;
+    font-weight: 500;
+    position: relative;
+    bottom: 10px;
+}
+.dollar1{
+    position: relative;
+    bottom: 25px;
+}
+.dolarr{
+    position: relative;
+    bottom: 40px;
+}
+.yulduzz{
+    position: relative;
+    bottom: 30px;
+    font-size: 11px;
+}
